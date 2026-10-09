@@ -1,0 +1,4 @@
+metric,value
+corr_ath_vs_pick,-0.148
+corr_ath_vs_vod,-0.011
+interpretation,"Filter-dominant: athleticism tracks the pick, not residual VOD"
