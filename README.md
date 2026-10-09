@@ -1,6 +1,6 @@
 # NFL Big Data Bowl 2027 — Draft Market Efficiency
 
-![Draft Market Efficiency project image](./image%20(1).jpg)
+![Draft Market Efficiency project image](./project_image.jpg)
 
 This repository investigates whether pre-draft athletic measurements explain early-career NFL usage **after accounting for draft position**. The analysis treats snaps as a measure of opportunity, not player quality, and evaluates predictive associations rather than causal effects.
 
