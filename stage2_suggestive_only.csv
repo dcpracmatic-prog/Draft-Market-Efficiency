@@ -1,0 +1,9 @@
+group,block,r2,verdict
+WR,Core Combine,0.014,Suggestive
+TE,Core Combine,0.012,Suggestive
+CB,Tracking COD,0.031,Suggestive
+CB,All athletic,0.03,Suggestive
+S,Core Combine,0.036,Suggestive
+S,NGS scores,0.02,Suggestive
+OL,NGS scores,0.03,Suggestive
+DL,NGS scores,0.03,Suggestive
